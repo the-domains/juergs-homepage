@@ -1,0 +1,14 @@
+layout_spectrum: 0.6014594205189496
+typography_spectrum: 0.44054290605708957
+color:
+  brandStrength: 0.03854525089263916
+  lightness: 0.06414643744938076
+  saturation: 0.32301852223463356
+  rhythmicContrast: 0.9475436003413051
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Juerg's Homepage
